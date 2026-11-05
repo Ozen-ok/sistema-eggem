@@ -1,0 +1,26 @@
+# API e servidor
+fastapi==0.162.0
+uvicorn[standard]==0.54.0
+fastapi-mail==1.6.8
+pydantic==2.14.3
+
+# Interface e integração HTTP
+streamlit==1.36.0
+st-pages==0.5.0
+requests==2.34.2
+
+# Banco de dados e autenticação
+psycopg2-binary==2.9.13
+bcrypt==5.0.0
+PyJWT==2.15.1
+python-dotenv==1.2.4
+
+# Documentos e dados
+python-docx==1.2.0
+docxtpl==0.20.2
+docx2pdf==0.1.8
+pandas==2.3.3
+
+# Validação de e-mail
+validate-email-address==1
+email-validator==2.3.0
